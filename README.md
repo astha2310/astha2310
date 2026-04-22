@@ -2,7 +2,7 @@
  
 MS Information Technology · Cybersecurity Specialization · Arizona State University · GPA 4.0
  
-I build AI/ML systems, cybersecurity platforms, and full-stack applications — from multimodal deep learning to AI-powered threat detection and cloud-native security infrastructure. My work sits at the intersection of **AI and cybersecurity**: using machine learning to detect intrusions, anomalies, and behavioral risks in real time. Currently seeking full-time roles in ML Engineering, AI, and Cybersecurity.
+I build AI/ML systems, cybersecurity platforms, and full-stack applications, from multimodal deep learning to AI-powered threat detection and cloud-native security infrastructure. My work sits at the intersection of **AI and cybersecurity**: using machine learning to detect intrusions, anomalies, and behavioral risks in real time. Currently seeking full-time roles in ML Engineering, AI, and Cybersecurity.
  
 ---
  
@@ -10,7 +10,6 @@ I build AI/ML systems, cybersecurity platforms, and full-stack applications — 
  
 **AI & ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly-Detection-blueviolet?style=flat-square)
 ![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-9B59B6?style=flat-square)
@@ -18,17 +17,13 @@ I build AI/ML systems, cybersecurity platforms, and full-stack applications — 
  
 **Cybersecurity & SIEM**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-IDS-2F4F4F?style=flat-square)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK-Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-red?style=flat-square)
 ![Behavioral Baselining](https://img.shields.io/badge/Behavioral-Baselining-orange?style=flat-square)
-![CIS Benchmarks](https://img.shields.io/badge/CIS-Benchmarks-CC0000?style=flat-square)
  
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
  
@@ -42,8 +37,13 @@ I build AI/ML systems, cybersecurity platforms, and full-stack applications — 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+
+**Tools & Platforms**
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power-Platform-742774?style=flat-square&logo=microsoftpowerplatform&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
  
 ---
  
