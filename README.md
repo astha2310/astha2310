@@ -1,86 +1,75 @@
 # Hi, I'm Astha Patel 👋
- 
-MS Information Technology · Cybersecurity Specialization · Arizona State University · GPA 4.0
- 
-I build AI/ML systems, cybersecurity platforms, and full-stack applications, from multimodal deep learning to AI-powered threat detection and cloud-native security infrastructure. My work sits at the intersection of **AI and cybersecurity**: using machine learning to detect intrusions, anomalies, and behavioral risks in real time. Currently seeking full-time roles in ML Engineering, AI, and Cybersecurity.
- 
----
- 
-## 🛠 Tech Stack
- 
-**AI & ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly-Detection-blueviolet?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-9B59B6?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-EE4C2C?style=flat-square)
- 
-**Cybersecurity & SIEM**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-red?style=flat-square)
-![Behavioral Baselining](https://img.shields.io/badge/Behavioral-Baselining-orange?style=flat-square)
- 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
- 
-**Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
- 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-**Tools & Platforms**
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power-Platform-742774?style=flat-square&logo=microsoftpowerplatform&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
- 
+**M.S. Information Technology · Arizona State University · GPA 3.93**  
+Security Analyst | Python · SQL · ELK Stack · AWS  
+Tempe, AZ · F-1 STEM OPT eligible · Open to full-time roles
+
 ---
- 
-## 💼 Experience
- 
-**System & Security Support · Arizona State University** *(Sep 2025 – Present)*
-Triaging 90+ daily service requests while monitoring for behavioral anomalies and account-level threats. Reduced security incidents by 25% through phishing pattern analysis. Built Python + Terraform pipelines for AI-ready identity and access anomaly detection.
- 
-**Security Analyst · Kishor Steel Industries** *(Jan 2023 – May 2024)*
-Built ML-assisted analytics pipelines (Python, PySpark, ELK Stack) for real-time threat classification across 15+ client environments — processing 2M+ log events daily. Led SQL Server → AWS Redshift migration for high-throughput ML workloads.
- 
-**Cybersecurity & Cloud Security Analyst · Elegant Microweb Technologies** *(Aug – Dec 2023)*
-Conducted vulnerability and risk assessments across cloud environments, reducing incidents by 35%. Developed ML-inspired anomaly detection logic using statistical modeling and behavioral baselining.
- 
+
+## About Me
+
+I started my career as an Angular developer — writing the code that attackers love to exploit. That gave me something most analysts don't have: I understand the systems I'm securing from the inside.
+
+From there I moved into security analysis at Kishor Steel Industries, monitoring infrastructure and conducting vulnerability assessments for a 200+ employee organization. Now completing my M.S. at ASU, I build hands-on security tools using real threat data and industry-standard tooling.
+
 ---
- 
-## 🚀 Featured Projects
- 
-### 🧠 [BehaviorLens](https://github.com/astha2310/BehaviorLens)
-Multimodal behavioral AI platform using a tri-stream LSTM architecture fusing app-usage time-series, BERT text embeddings, and MobileNetV2 visual features. Real-time behavioral risk score with SHAP explainability. React dashboard with WebSocket live feed. 89.2% weighted F1.
-`PyTorch` `BERT` `LSTM` `React` `FastAPI` `SHAP`
- 
-### 🛡 SIEM-AI
-Cloud-native SIEM platform with AI-powered anomaly detection. Ingests logs from AWS CloudTrail, Azure Monitor, and Splunk HEC with a real-time React threat dashboard.
-`PyTorch` `FastAPI` `React` `AWS` `Docker`
- 
-### 🔍 NetGuard-IDS
-ML-based network intrusion detection system at the packet level. Ingests Wireshark PCAP captures and Zeek logs, classifies threats in real time with a PyTorch model.
-`PyTorch` `Wireshark` `Zeek` `FastAPI` `Docker`
- 
-### ☁️ CloudGuard
-Automated compliance monitoring for AWS cloud infrastructure against CIS Benchmark controls (Level 1 & 2) across IAM, S3, CloudTrail, VPC, and EC2.
-`Python` `Terraform` `FastAPI` `React` `AWS`
- 
+
+## Projects
+
+### 🛡️ CyberShield — Automated SOC Platform
+Python · Flask · SQLite · AlienVault OTX · URLhaus · Feodo Tracker
+
+A threat intelligence and detection platform that pulls live IOCs from 3 real industry feeds, stores 150,000+ real malicious indicators, cross-references IPs and domains against the threat database, and displays findings on a live Flask SOC dashboard. IP blocking is database-driven — designed to integrate with firewall APIs in production.
+
+[View Repository](https://github.com/astha2310/cybershield)
+
 ---
- 
-## 📫 Connect
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asthap23-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asthap23/)
-[![Email](https://img.shields.io/badge/Email-asthaspatel2002@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asthaspatel2002@gmail.com)
+
+### 🔍 Automated Vulnerability Scanner
+Python · Nmap · NVD CVE API · ReportLab
+
+Scans target systems for open ports and services, queries 347,000+ CVEs from the NVD database in real time, calculates risk ratings (Critical/High/Medium/Low), and auto-generates a professional PDF security assessment report.
+
+[View Repository](https://github.com/astha2310/vulnerability-scanner)
+
+---
+
+### 📊 Home Lab SIEM — ELK Stack
+Elasticsearch · Logstash · Kibana · Filebeat · Kali Linux · Ubuntu Server
+
+Built a fully functional SIEM on two virtual machines. Configured Filebeat agents to ship logs to Logstash, stored 26,000+ real security events in Elasticsearch, built live Kibana dashboards, and simulated real attacks (SSH brute force, port scanning) using Kali Linux. Detected 100% of simulated attack scenarios.
+
+[View Repository](https://github.com/astha2310/home-lab-siem)
+
+---
+
+## Experience
+
+**Messaging Platform Support Assistant** · Arizona State University · Sep 2025–Present  
+**Angular Developer** · Elegant MicroWeb · Jun 2023–May 2024  
+**Security Analyst** · Kishor Steel Industries · Jan 2022–May 2023
+
+---
+
+## Certifications
+
+- AWS Academy Graduate — Cloud Security Foundations
+- AWS Educate — Getting Started with Security
+- Python (Basic) — HackerRank
+- Angular (Basic) — HackerRank
+- Learning ServiceNow
+
+---
+
+## Tech Stack
+
+**Security:** ELK Stack · Nmap · Hydra · Threat Intelligence · SIEM · Vulnerability Assessment  
+**Languages:** Python · SQL · JavaScript · Bash  
+**Cloud:** AWS  
+**Tools:** Kibana · Flask · Git · ServiceNow · VirtualBox · UTM
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/asthap23) · asthaspatel2002@gmail.com
