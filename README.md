@@ -45,7 +45,7 @@ Built a fully functional SIEM on two virtual machines. Configured Filebeat agent
 
 ## Experience
 
-**Messaging Platform Support Assistant** · Arizona State University · Sep 2025–Present  
+**Messaging Platform Support Assistant** · Arizona State University · Sep 2025–May 2026  
 **Angular Developer** · Elegant MicroWeb · Jun 2023–May 2024  
 **Security Analyst** · Kishor Steel Industries · Jan 2022–May 2023
 
