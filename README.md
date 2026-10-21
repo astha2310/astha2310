@@ -5,7 +5,7 @@ I'm a cybersecurity grad (M.S. IT, Arizona State University) who likes figuring 
 Most of my projects started with a question like *"How would a SOC analyst actually spot this?"* and turned into something I built, broke, and fixed until it worked.
 
 **Looking for:** entry-level roles in SOC / security analysis, GRC & compliance, or IT support.
-**Location:** Jacksonville, FL. Open to relocating anywhere in the US.
+Open to relocating anywhere in the US.
 
 ---
 
