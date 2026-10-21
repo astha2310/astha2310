@@ -1,37 +1,43 @@
-# Hi, I'm Astha
+# Hi, I'm Astha 👋
 
-M.S. Information Technology from Arizona State University. GPA 3.93.
+I'm a cybersecurity grad (M.S. IT, Arizona State University) who likes figuring out how attacks work and building simple tools to catch them.
 
-I build security systems and data tools from scratch using real data. Not tutorials, not sandboxes — actual threat feeds, actual transactions, actual security events.
+Most of my projects started with a question like *"How would a SOC analyst actually spot this?"* and turned into something I built, broke, and fixed until it worked.
 
----
-
-## What I've Built
-
-**CyberShield** — A live SOC platform that ingests 150,000 plus real threat indicators from URLhaus, AlienVault OTX, and Feodo Tracker. Detects malicious IPs and domains in real time with automated incident creation and a Flask dashboard.
-
-**PhishGuard** — ML phishing URL detector trained on 6,500 plus real URLs with 24 engineered features. Random Forest achieved 99.90% AUC-ROC.
-
-**Home Lab SIEM** — Full ELK Stack deployment across two VMs. Processed 26,000 plus real security events. Configured Filebeat, Logstash pipelines, and Kibana SOC dashboards from scratch.
-
-**Phishing Email Analyzer** — TF-IDF plus Logistic Regression classifier trained on 82,000 plus real emails. 98% accuracy with consistent precision and recall.
-
-**Credit Card Fraud Detection** — Random Forest model on 284,807 real transactions. 97.66% AUC-ROC. Identified $60,127 in fraud losses in the test set.
-
-**Vulnerability Scanner** — Automated CVE scanner using Nmap and the NVD API. Queries 347,000 plus CVEs and generates professional PDF reports.
+**Looking for:** entry-level roles in SOC / security analysis, GRC & compliance, or IT support.
+**Location:** Jacksonville, FL. Open to relocating anywhere in the US.
 
 ---
 
-## Skills
+## 🔐 What I've built
 
-Python, SQL, Bash, PowerShell, ELK Stack, SIEM, Threat Intelligence, Incident Response, Vulnerability Assessment, AWS, scikit-learn, Flask, Active Directory, Microsoft 365, ServiceNow
+| Project | What it does | Built with |
+|---|---|---|
+| [**CyberShield**](https://github.com/astha2310/cybershield) | Pulls 150,000+ threat indicators from 3 public feeds every hour, checks IPs and domains against them, and opens an incident automatically when something matches. | Python, Flask, SQLite |
+| [**Home Lab SIEM**](https://github.com/astha2310/home-lab-siem) | My own mini SOC on two VMs. Collected 26,000+ security events, simulated attacks like brute-force logins, and wrote alert rules and runbooks to catch them. | ELK Stack, Filebeat, Kibana |
+| [**Vulnerability Scanner**](https://github.com/astha2310/vulnerability-scanner) | Scans a network with Nmap, matches what it finds against 347,000+ known vulnerabilities (CVEs), and ranks what to fix first. | Python, Nmap, NVD API |
+| [**PhishGuard**](https://github.com/astha2310/phishguard) | Checks if a URL looks like phishing using a machine learning model trained on 6,500+ real URLs. | Python, scikit-learn |
+| [**Phishing Email Analyzer**](https://github.com/astha2310/phishing-email-analyzer) | Reads an email and predicts if it's phishing. Trained on 82,000+ emails, about 98% accurate. | Python, TF-IDF, Logistic Regression |
+| [**Fraud Detection**](https://github.com/astha2310/fraud-detection) | Finds fraudulent credit card transactions in a dataset of 284,807 transactions. | Python, scikit-learn |
 
 ---
 
-## Currently
+## 🛠️ Tools I work with
 
-Actively looking for full-time roles in cybersecurity, data analytics, or IT. Based in Tempe, AZ and open to relocating anywhere in the US. F-1 STEM OPT.
+**Security:** Splunk · Microsoft Sentinel · ELK Stack · Wireshark · Nmap · MITRE ATT&CK
+**Compliance:** NIST CSF · SOC 2 · ISO 27001 · CIS Benchmarks
+**Cloud & IT:** AWS · Azure · Microsoft 365 · Entra ID · Active Directory · ServiceNow
+**Code:** Python · PowerShell · SQL · Bash
 
 ---
 
-linkedin.com/in/asthap23
+## 📚 Right now
+
+- Studying for **CompTIA Security+** (exam in November 2026)
+- Adding new detection rules to my home lab
+
+---
+
+## 📫 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/asthap23) · asthaspatel2002@gmail.com
