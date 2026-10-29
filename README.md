@@ -13,9 +13,11 @@ Open to relocating anywhere in the US.
 
 | Project | What it does | Built with |
 |---|---|---|
+| [**Azure Sentinel Honeypot SOC Lab**](https://github.com/astha2310/azure-sentinel-honeypot-soc-lab) | Put a Windows Server VM on the internet with RDP open, sent its security logs to Microsoft Sentinel, and hunted attacks with KQL. Investigated a known malicious IP from Romania on the first night, and built a brute-force detection rule (MITRE T1110) that I tested, tuned and closed incidents for. | Microsoft Sentinel, KQL, Azure Monitor Agent, Azure CLI |
 | [**CyberShield**](https://github.com/astha2310/cybershield) | Pulls 150,000+ threat indicators from 3 public feeds every hour, checks IPs and domains against them, and opens an incident automatically when something matches. | Python, Flask, SQLite |
 | [**Home Lab SIEM**](https://github.com/astha2310/home-lab-siem) | My own mini SOC on two VMs. Collected 26,000+ security events, simulated attacks like brute-force logins, and wrote alert rules and runbooks to catch them. | ELK Stack, Filebeat, Kibana |
 | [**Vulnerability Scanner**](https://github.com/astha2310/vulnerability-scanner) | Scans a network with Nmap, matches what it finds against 347,000+ known vulnerabilities (CVEs), and ranks what to fix first. | Python, Nmap, NVD API |
+| [**Vendor Risk Compliance**](https://github.com/astha2310/vendor_risk_compliance) | An app for managing vendor risk reviews, with request forms, approval workflows, automated reminders and status reports. | Power Apps, Power Automate, Dataverse |
 | [**PhishGuard**](https://github.com/astha2310/phishguard) | Checks if a URL looks like phishing using a machine learning model trained on 6,500+ real URLs. | Python, scikit-learn |
 | [**Phishing Email Analyzer**](https://github.com/astha2310/phishing-email-analyzer) | Reads an email and predicts if it's phishing. Trained on 82,000+ emails, about 98% accurate. | Python, TF-IDF, Logistic Regression |
 | [**Fraud Detection**](https://github.com/astha2310/fraud-detection) | Finds fraudulent credit card transactions in a dataset of 284,807 transactions. | Python, scikit-learn |
@@ -24,10 +26,10 @@ Open to relocating anywhere in the US.
 
 ## 🛠️ Tools I work with
 
-**Security:** Splunk · Microsoft Sentinel · ELK Stack · Wireshark · Nmap · MITRE ATT&CK
+**Security:** Splunk · Microsoft Sentinel (KQL) · ELK Stack · Wireshark · Nmap · AbuseIPDB · VirusTotal · MITRE ATT&CK
 **Compliance:** NIST CSF · SOC 2 · ISO 27001 · CIS Benchmarks
 **Cloud & IT:** AWS · Azure · Microsoft 365 · Entra ID · Active Directory · ServiceNow
-**Code:** Python · PowerShell · SQL · Bash
+**Code:** Python · PowerShell · KQL · SQL · Bash
 
 ---
 
