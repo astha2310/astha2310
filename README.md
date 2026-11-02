@@ -13,6 +13,7 @@ Open to relocating anywhere in the US.
 
 | Project | What it does | Built with |
 |---|---|---|
+| [**PHI Leak Guard**](https://github.com/astha2310/phi-leak-guard) | Stops patient information from leaking into AI tools. Finds and hides 7 types of private details (names, medical record numbers, SSNs and more) before a note reaches the AI, which runs on the same computer, and keeps an audit log that never stores the details themselves. | Python, Microsoft Presidio, Streamlit, Ollama |
 | [**Azure Sentinel Honeypot SOC Lab**](https://github.com/astha2310/azure-sentinel-honeypot-soc-lab) · [live report](https://astha2310.github.io/azure-sentinel-honeypot-soc-lab/) | Put a Windows Server VM on the internet with RDP open and sent its logs to Microsoft Sentinel. Logged 277,167 brute-force attempts in 5 days, traced 95% of them to a 10-IP botnet, and built a detection rule (MITRE T1110) that I tested and tuned. No attacker got in. | Microsoft Sentinel, KQL, Azure Monitor Agent, Azure CLI |
 | [**CyberShield**](https://github.com/astha2310/cybershield) | Pulls 150,000+ threat indicators from 3 public feeds every hour, checks IPs and domains against them, and opens an incident automatically when something matches. | Python, Flask, SQLite |
 | [**Home Lab SIEM**](https://github.com/astha2310/home-lab-siem) | My own mini SOC on two VMs. Collected 26,000+ security events, simulated attacks like brute-force logins, and wrote alert rules and runbooks to catch them. | ELK Stack, Filebeat, Kibana |
